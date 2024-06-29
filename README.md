@@ -1,11 +1,11 @@
-Olá! meu nome é Julia!
+# *Olá!* ✨
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Juliareis-s&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <img src="https://cdn.picrew.me/shareImg/org/202406/606067_SQZCZJWw.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Atualmente, sou estudante de Bacharelado em Gestão Ambiental na Universidade de São Paulo e Bacharelado em Ciência da Computação na Faculdade Descomplica - UniAmerica. Além disso, concluí um curso técnico em Multimídia no Senac São Paulo, onde me especializei em Produção e Design para Web e Criação e Produção de Animações.
+ Me chamo Julia. Atualmente, sou estudante de Bacharelado em Gestão Ambiental na Universidade de São Paulo e Bacharelado em Ciência da Computação na Faculdade Descomplica - UniAmerica. Além disso, concluí um curso técnico em Multimídia no Senac São Paulo, onde me especializei em Produção e Design para Web e Criação e Produção de Animações.
 </p>
 
  <td>
